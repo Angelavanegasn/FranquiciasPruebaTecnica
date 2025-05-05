@@ -22,9 +22,13 @@ Este proyecto implementa una API REST reactiva utilizando **Spring WebFlux** par
 Las pruebas unitarias están implementadas con **JUnit 5** y **Reactor Test** para validar la lógica de negocio en un entorno reactivo.
 
 ![image](https://github.com/user-attachments/assets/f88be801-f531-4571-ba74-c463e8d4ba2f)
+
 Cuando probamos franquicia es como se visualiza en consola.
+
 ![image](https://github.com/user-attachments/assets/7bce65c6-b48a-48aa-92e0-73bffe739690)
+
 Probamos las pruebas unitarias de Sucursal
+
 ![image](https://github.com/user-attachments/assets/a9232d6a-1916-489f-a790-6f51d4d0b61c)
 
 
